@@ -3,7 +3,7 @@
 I am a **Computer Science Master's student** at the **University of Stuttgart** and a **Working Student at Porsche AG**. My work focuses on the intersection of **Reinforcement Learning**, **Deep Learning** and **Large Language Models**. I am currently preparing for a PhD starting in 2026, aiming to contribute to the next generation of Intelligent Systems.
 
 ### 🔬 Research Focus
-* **Master's Thesis:** Investigating **Anomaly Detection** in vehicle control units using **LogBERT** and **LogLLM** in cooperation with **Porsche AG**
+* **Master's Thesis:** Investigating **Anomaly Detection** in vehicle control units using **LogBERT** and **LogLLM** in cooperation with **Porsche**
   * Demonstrated that scaling models from **1B to 8B parameters** significantly improves **F1-scores** (e.g., from 0.419 to 0.912 on the BGL dataset)
 * **Bachelor's Thesis:** Developed a **Learn-to-Optimize** framework using **RL (PPO)** to solve parameter-dependent black-box problems
   * Demonstrated agent generalization to unseen parameter configurations in up to 10 dimensions
