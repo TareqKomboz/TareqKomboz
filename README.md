@@ -5,7 +5,7 @@ I am a **Computer Science Master's student** at the **University of Stuttgart** 
 ### 🔬 Research Focus
 * **Master's Thesis:** Investigating **Anomaly Detection** in vehicle control units using **LogBERT** and **LogLLM** in cooperation with **Porsche AG**
   * Demonstrated that scaling models from **1B to 8B parameters** significantly improves **F1-scores** (e.g., from 0.419 to 0.912 on the BGL dataset)
-* **Bachelor's Thesis:** Developed a **Learn-to-Optimize** framework using **RL (PPO, REINFORCE)** to solve parameter-dependent black-box problems
+* **Bachelor's Thesis:** Developed a **Learn-to-Optimize** framework using **RL (PPO)** to solve parameter-dependent black-box problems
   * Demonstrated agent generalization to unseen parameter configurations in up to 10 dimensions
 * **Anomaly Detection:** Achieved a **93% F1-score** in Credit Card Fraud Detection using **OC-NN**, outperforming standard kNN baselines
 * **Study Project:** Automated Clustering of Small Molecules 
