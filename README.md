@@ -2,22 +2,22 @@
 
 **Computer Science Researcher | Deep Learning & Reinforcement Learning**
 
-I am a Master’s student at the **University of Stuttgart** (Focus: Intelligent Systems, Grade: 1.3) and a Working Student at **Porsche AG**. My work sits at the intersection of **Deep Reinforcement Learning (RL)** and **Large Language Models (LLMs)**, specifically focused on making autonomous systems more reliable and interpretable.
+I am a Master’s student at the [**University of Stuttgart**](https://www.uni-stuttgart.de/en/) (Focus: Intelligent Systems, Grade: 1.3) and a Working Student at [**Porsche AG**](https://www.porsche.com/germany/). My work sits at the intersection of **Deep Reinforcement Learning (RL)** and **Large Language Models (LLMs)**, specifically focused on making autonomous systems more reliable and interpretable.
 
-🎯 **Goal:** Currently preparing for a **PhD starting in 2026**, aiming to contribute to **ICML, ICLR, and NeurIPS**.
+🎯 **Goal:** Currently preparing for a **PhD starting in 2026**, aiming to contribute to **[ICML](https://icml.cc/), [ICLR](https://iclr.cc/), and [NeurIPS](https://neurips.cc/)**.
 
 ---
 
 ### 🔬 Research Interests
-* **Anomaly Detection:** Scaling LLMs (LogBERT/LogLLM) for zero-shot and few-shot fault detection in complex trace files.
-* **Reinforcement Learning:** Generalization in "Learn-to-Optimize" frameworks and high-dimensional black-box optimization.
+* **Anomaly Detection:** Scaling LLMs ([LogBERT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9534113&casa_token=H2aht8F-SpoAAAAA:ywVzfH12u-6K_s9DdFFz4Jd0YcPR_ae1T8me3iFBbH4X2Jvva1MJqc8e07E7NXYtW4pvbBi_Yw&tag=1)/[LogLLM](https://arxiv.org/pdf/2411.08561)) for zero-shot and few-shot fault detection in complex trace files.
+* **Reinforcement Learning:** Generalization in "Learn-to-Optimize" frameworks and high-dimensional black-box optimization .
 * **ML Systems:** Automating verification and validation pipelines in safety-critical automotive environments.
 
 ### 🚀 Featured Work
 * **Master's Thesis (Porsche AG):** *Deep Learning for Anomaly Detection in Vehicle Control Units.* * Adapted **LogBERT** and **LogLLM** for real-world automotive telemetry.
     * Demonstrated that scaling from **1B to 8B parameters** yields a **~117% improvement** in F1-score (0.419 → 0.912) on the BGL dataset.
-* **Bachelor's Thesis:** *Parameter-Dependent Self-Learning Optimization.*
-    * Developed an RL-based optimizer using **PPO** that generalizes to unseen parameter configurations in 10D space, outperforming static state-of-the-art baselines.
+* **Bachelor's Thesis:** [*Parameter-Dependent Self-Learning Optimization.*](https://elib.uni-stuttgart.de/items/120c5c5b-47e9-4f0a-a664-8c9a46631a59)
+    * Developed an RL-based optimizer using [**PPO**](https://arxiv.org/pdf/1707.06347) that generalizes to unseen parameter configurations in 10D space, outperforming static state-of-the-art baselines.
 
 ### 🛠️ Technical Toolkit
 | Category | Stack |
@@ -33,9 +33,9 @@ I am a Master’s student at the **University of Stuttgart** (Focus: Intelligent
 * **University of Stuttgart | Graduate Teaching Assistant:** Led tutorials in Data Structures & Algorithms and Theoretical CS (60+ students).
 
 ### 🏆 Recognitions & Programs
-* **Baden-Württemberg Scholarship:** Semester abroad at the **University of Adelaide**.
-* **Business Model Award:** Winner for "VectisFinance" in AI Incubator Batch #3.
-* **AI Software Academy (AISA):** Completed Certificate of Advanced Studies (18 ECTS) in AI & Software Engineering.
+* [**Baden-Württemberg Scholarship:**](https://www.bw-stipendium.de/en/) Semester abroad at the **University of Adelaide**.
+* **Business Model Award:** Winner for "VectisFinance" in [AI Incubator Batch #3](https://cyber-valley.de/en/events/AI-incubator-03-Q-and-A-3).
+* [**AI Software Academy (AISA):**](https://www.aisa.uni-stuttgart.de/) Completed Certificate of Advanced Studies (18 ECTS) in AI & Software Engineering.
 
 ---
 
