@@ -14,7 +14,8 @@ I am a Master’s student at the [**University of Stuttgart**](https://www.uni-s
 * **ML Systems:** Automating verification and validation pipelines in safety-critical automotive environments.
 
 ### 🚀 Featured Work
-* **Master's Thesis (Porsche AG):** *Deep Learning for Anomaly Detection in Vehicle Control Units.* * Adapted **LogBERT** and **LogLLM** for real-world automotive telemetry.
+* **Master's Thesis (Porsche AG):** *Deep Learning for Anomaly Detection in Vehicle Control Units.*
+    * Adapted **LogBERT** and **LogLLM** for real-world automotive telemetry.
     * Demonstrated that scaling from **1B to 8B parameters** yields a **~117% improvement** in F1-score (0.419 → 0.912) on the BGL dataset.
 * **Bachelor's Thesis:** [*Parameter-Dependent Self-Learning Optimization.*](https://elib.uni-stuttgart.de/items/120c5c5b-47e9-4f0a-a664-8c9a46631a59)
     * Developed an RL-based optimizer using [**PPO**](https://arxiv.org/pdf/1707.06347) that generalizes to unseen parameter configurations in 10D space, outperforming static state-of-the-art baselines.
