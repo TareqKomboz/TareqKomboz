@@ -34,7 +34,7 @@ I am a Master’s student at the [**University of Stuttgart**](https://www.uni-s
 * **University of Stuttgart | Graduate Teaching Assistant:** Led tutorials in Data Structures & Algorithms and Theoretical CS (60+ students).
 
 ### 🏆 Recognitions & Programs
-* [**Baden-Württemberg Scholarship:**](https://www.bw-stipendium.de/en/) Semester abroad at the **University of Adelaide**.
+* [**Baden-Württemberg Scholarship:**](https://www.bw-stipendium.de/en/) Semester abroad at the [**University of Adelaide**](https://www.adelaide.edu.au/front/international?adobe_mc_sdid=SDID%3D69B9F890340572CC-7DA0C479F368CB56%7CMCORGID%3DBA023B045D5A83160A495E49%40AdobeOrg%7CTS%3D1768173763&adobe_mc_ref=https%3A%2F%2Fwww.adelaide.edu.au%2F).
 * **Business Model Award:** Winner for "VectisFinance" in [AI Incubator Batch #3](https://cyber-valley.de/en/events/AI-incubator-03-Q-and-A-3).
 * [**AI Software Academy (AISA):**](https://www.aisa.uni-stuttgart.de/) Completed Certificate of Advanced Studies (18 ECTS) in AI & Software Engineering.
 
