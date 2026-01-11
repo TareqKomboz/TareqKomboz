@@ -29,9 +29,9 @@ I am a Master’s student at the [**University of Stuttgart**](https://www.uni-s
 | **Engineering** | MLOps, CI/CD, Test Case Automation (Porsche), Linux |
 
 ### 💼 Professional Experience
-* **Porsche AG | Working Student (AI/LLM):** Automating hardware requirement-to-test case generation using LLMs.
-* **Porsche AG | Data Science Intern:** Discovered ECU fault correlations using Association Rule Discovery.
-* **University of Stuttgart | Graduate Teaching Assistant:** Led tutorials in Data Structures & Algorithms and Theoretical CS (60+ students).
+* **[Porsche AG](https://www.porsche.com/germany/) | Working Student (AI/LLM):** Automating hardware requirement-to-test case generation using LLMs.
+* **[Porsche AG](https://www.porsche.com/germany/) | Data Science Intern:** Discovered ECU fault correlations using Association Rule Discovery.
+* **[University of Stuttgart](https://www.uni-stuttgart.de/en/) | Graduate Teaching Assistant:** Led tutorials in Data Structures & Algorithms and Theoretical CS (60+ students).
 
 ### 🏆 Recognitions & Programs
 * [**Baden-Württemberg Scholarship:**](https://www.bw-stipendium.de/en/) Semester abroad at the [**University of Adelaide**](https://www.adelaide.edu.au/front/international?adobe_mc_sdid=SDID%3D69B9F890340572CC-7DA0C479F368CB56%7CMCORGID%3DBA023B045D5A83160A495E49%40AdobeOrg%7CTS%3D1768173763&adobe_mc_ref=https%3A%2F%2Fwww.adelaide.edu.au%2F).
