@@ -28,7 +28,7 @@ I am a **Computer Science Master's student** at the **University of Stuttgart** 
 
 ### 🥊 Beyond the Code
 I am passionate about **Strategy Games:** Chess, Xiangqi, and Go.
-*Check out my [Blog Post on Mastering the Game of Go (AlphaGo/AlphaZero)](https://tareqkomboz.github.io/forkedHauptseminar//posts/2012/08/blog-post-1/)!* 
+*Check out my [Blog Post on Mastering the Game of Go (AlphaGo/AlphaZero)](https://tareqkomboz.github.io/posts/2023/11/mastering-the-game-of-go/)!* 
 
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/tareqkomboz](https://www.linkedin.com/in/tareqkomboz/) 
