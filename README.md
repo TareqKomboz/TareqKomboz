@@ -9,12 +9,12 @@ I am a Master’s student at the [**University of Stuttgart**](https://www.uni-s
 ---
 
 ### 🔬 Research Interests
-* **Anomaly Detection:** Scaling LLMs ([LogBERT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9534113&casa_token=H2aht8F-SpoAAAAA:ywVzfH12u-6K_s9DdFFz4Jd0YcPR_ae1T8me3iFBbH4X2Jvva1MJqc8e07E7NXYtW4pvbBi_Yw&tag=1)/[LogLLM](https://arxiv.org/pdf/2411.08561)) for zero-shot and few-shot fault detection in complex trace files.
 * **Reinforcement Learning:** Generalization in "Learn-to-Optimize" frameworks and high-dimensional black-box optimization .
 * **ML Systems:** Automating verification and validation pipelines in safety-critical automotive environments.
+* **Anomaly Detection:** Scaling LLMs ([LogBERT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9534113&casa_token=H2aht8F-SpoAAAAA:ywVzfH12u-6K_s9DdFFz4Jd0YcPR_ae1T8me3iFBbH4X2Jvva1MJqc8e07E7NXYtW4pvbBi_Yw&tag=1)/[LogLLM](https://arxiv.org/pdf/2411.08561)) for zero-shot and few-shot fault detection in complex trace files.
 
 ### 🚀 Featured Work
-* **Master's Thesis (Porsche AG):** *Deep Learning for Anomaly Detection in Vehicle Control Units.*
+* **Master's Thesis ([Porsche AG](https://www.porsche.com/germany/)):** *Deep Learning for Anomaly Detection in Vehicle Control Units.*
     * Adapted **LogBERT** and **LogLLM** for real-world automotive telemetry.
     * Demonstrated that scaling from **1B to 8B parameters** yields a **~117% improvement** in F1-score (0.419 → 0.912) on the BGL dataset.
 * **Bachelor's Thesis:** [*Parameter-Dependent Self-Learning Optimization.*](https://elib.uni-stuttgart.de/items/120c5c5b-47e9-4f0a-a664-8c9a46631a59)
