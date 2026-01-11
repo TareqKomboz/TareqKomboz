@@ -4,7 +4,7 @@
 
 I am a Master’s student at the [**University of Stuttgart**](https://www.uni-stuttgart.de/en/) (Focus: Intelligent Systems, Grade: 1.3) and a Working Student at [**Porsche AG**](https://www.porsche.com/germany/). My work sits at the intersection of **Deep Reinforcement Learning (RL)** and **Large Language Models (LLMs)**, specifically focused on making autonomous systems more reliable and interpretable.
 
-🎯 **Goal:** Currently preparing for a **PhD starting in 2026**, aiming to contribute to **[ICML](https://icml.cc/), [ICLR](https://iclr.cc/), and [NeurIPS](https://neurips.cc/)**.
+🎯 **Goal:** Currently applying for a **PhD starting in 2026**, aiming to contribute to **[ICML](https://icml.cc/), [ICLR](https://iclr.cc/), and [NeurIPS](https://neurips.cc/)**.
 
 ---
 
@@ -18,7 +18,7 @@ I am a Master’s student at the [**University of Stuttgart**](https://www.uni-s
     * Adapted **LogBERT** and **LogLLM** for real-world automotive telemetry.
     * Demonstrated that scaling from **1B to 8B parameters** yields a **~117% improvement** in F1-score (0.419 → 0.912) on the BGL dataset.
 * **Bachelor's Thesis:** [*Parameter-Dependent Self-Learning Optimization.*](https://elib.uni-stuttgart.de/items/120c5c5b-47e9-4f0a-a664-8c9a46631a59)
-    * Developed an RL-based optimizer using [**PPO**](https://arxiv.org/pdf/1707.06347) that generalizes to unseen parameter configurations in 10D space, outperforming static state-of-the-art baselines.
+    * Developed an RL-based optimizer using [**PPO**](https://arxiv.org/pdf/1707.06347)/[**REINFORCE**](https://link.springer.com/content/pdf/10.1007/BF00992696.pdf) that generalizes to unseen parameter configurations in 10D space, outperforming static state-of-the-art baselines.
 
 ### 🛠️ Technical Toolkit
 | Category | Stack |
