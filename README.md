@@ -1,6 +1,6 @@
 # Hello World, I'm Tareq Abu El Komboz 👋
 
-I am a **Computer Science Master's student** at the **University of Stuttgart** and a **Working Student at Porsche AG**. My work focuses on the intersection of **Reinforcement Learning**, **Deep Learning** and **Large Language Models**. I am currently preparing for a PhD starting in 2026, aiming to contribute to the next generation of Intelligent Systems.
+I am a **Computer Science Master's student** at the **University of Stuttgart** and a **Working Student at Porsche AG**. My work focuses on the intersection of **Deep Reinforcement Learning** and **Large Language Models**. I am currently preparing for a PhD starting in 2026, aiming to contribute to the next generation of Intelligent Systems.
 
 ### 🔬 Research Focus
 * **Master's Thesis:** Investigating **Anomaly Detection** in vehicle control units using **LogBERT** and **LogLLM** in cooperation with **Porsche**
