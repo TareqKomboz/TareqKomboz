@@ -1,4 +1,4 @@
-# Hello World, I'm Tareq Abu El Komboz 👋
+## Hello World, I'm Tareq Abu El Komboz 👋
 
 **Computer Science Researcher | Deep Learning & Reinforcement Learning**
 
