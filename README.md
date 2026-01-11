@@ -48,5 +48,3 @@ I'm a practitioner of **Strategy Games**—Chess, Xiangqi, and Go. I find the al
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:komboz.tareq@gmail.com)
 [<img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://tareqkomboz.github.io/)
 
----
-*“The reliability of electronic control units is crucial... In this thesis, we examine a transition towards automated, data-driven anomaly detection.”*
