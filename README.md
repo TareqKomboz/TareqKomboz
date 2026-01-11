@@ -1,6 +1,6 @@
 ## Hello World, I'm Tareq Abu El Komboz 👋
 
-**Computer Science Researcher | Deep Learning & Reinforcement Learning**
+**M.Sc. Computer Science Student / Incoming PhD Applicant / RL Researcher**
 
 I am a Master’s student at the [**University of Stuttgart**](https://www.uni-stuttgart.de/en/) (Focus: Intelligent Systems, Grade: 1.3) and a Working Student at [**Porsche AG**](https://www.porsche.com/germany/). My work sits at the intersection of **Deep Reinforcement Learning (RL)** and **Large Language Models (LLMs)**, specifically focused on making autonomous systems more reliable and interpretable.
 
